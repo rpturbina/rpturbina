@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/">rpturbina</a></h1>
+<h2 align="center">Hi there👋, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/">rpturbina</a></h2>
 
 ### Personal Stuff
 - 🔬 I’m currently conducting **research my undergraduate thesis**
