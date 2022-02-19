@@ -28,16 +28,14 @@
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&layout=compact&theme=radical)
+
 ---
 
 ### My Github Stats!
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true" alt="rpturbina" />
 </p>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafezdeldaffa&layout=compact&theme=radical)
 
 [website]: https://rpturbina.github.io/
 [instagram]: https://instagram.com/rpturbina
