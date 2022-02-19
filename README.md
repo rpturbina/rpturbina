@@ -1,4 +1,4 @@
-<h2 align="center">Hi there👋, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/">rpturbina</a></h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/">rpturbina</a></h2>
 
 ### Personal Stuff
 - 🔬 I’m currently conducting **research my undergraduate thesis**
@@ -10,11 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=rizki.pratama.turbina@gmail.com) &nbsp;&nbsp; [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/rpturbina)
 
 ### Languages and Tools:
 
@@ -29,13 +25,13 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&layout=compact&theme=prussian)
 
 ---
 
 ### My Github Stats!
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true" alt="rpturbina" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true&theme=prussian" alt="rpturbina" />
 </p>
 
 [website]: https://rpturbina.github.io/
