@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/">rpturbina</a></h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/" target="_blank">rpturbina</a></h2>
 
 ### Personal Stuff
 - 🔬 I’m currently conducting **research my undergraduate thesis**
