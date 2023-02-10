@@ -1,7 +1,6 @@
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <strong>Pratama</strong> 😎👨‍💻 aka <a href="https://rpturbina.github.io/" target="_blank">rpturbina</a></h2>
 
 ### Personal Stuff
-- 🔬 I’m currently conducting **research my undergraduate thesis**
 - 🌱 I’m currently learning about 🌐 **front-end web development** ft. little bit of **back-end development** 
 - 📫 How to reach me at 📧 **rizki.pratama.turbina@gmail.com** 
 - ⚡ Fun fact: I love to travel ✈️ and take photograph 📷
