@@ -27,13 +27,14 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&layout=compact&theme=prussian)
-
 ---
 
 ### My Github Stats!
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true&theme=prussian" alt="rpturbina" />
+<p align="left">
+    <a href="https://github.com/rpturbina">
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true&theme=react" alt="rpturbina" />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&langs_count=8&layout=compact&theme=react" alt="rpturbina" />
+    </a>
 </p>
 
 [website]: https://rpturbina.github.io/
