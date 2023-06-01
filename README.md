@@ -29,11 +29,14 @@
 
 ---
 
-### My Github Stats!
+### Github Stats:
 <p align="left">
     <a href="https://github.com/rpturbina">
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true&theme=react" alt="rpturbina" />
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&langs_count=8&layout=compact&theme=react" alt="rpturbina" />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpturbina&langs_count=8&layout=compact&theme=react&hide_border=true" alt="rpturbina" />
+        <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rpturbina&theme=react&hide_border=true" alt="mystreak"/>
+        <br />
+        <br />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rpturbina&show_icons=true&theme=react&hide_border=true" alt="rpturbina" />
     </a>
 </p>
 
